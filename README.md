@@ -47,7 +47,9 @@ The following diagram shows the high-level architecture of the project:
 
 The View observes the search query and search results from the ViewModel and updates itself accordingly. The ViewModel communicates with the Model to retrieve and manipulate data, and updates the View with the search results.
 
+## Screenshots
 
+![](../../Desktop/Screenshot_20230215_122016.png)
 
 ## Library dependencies
 
@@ -59,7 +61,7 @@ This project uses the following libraries:
 - Kotlin Flows: For exposing the search query and search results as a reactive stream that the View can observe.
 - ViewModel: For handling the business logic of the search view and providing the search query and search results to the View.
 
-## Version control workflow
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
