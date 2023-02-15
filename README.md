@@ -49,7 +49,9 @@ The View observes the search query and search results from the ViewModel and upd
 
 ## Screenshots
 
-![](../../Desktop/Screenshot_20230215_122016.png)
+![Screenshot_20230215_122016](https://user-images.githubusercontent.com/28220763/218986652-ba8fc85c-aecb-4775-847c-0546f10d88b2.png)
+
+
 
 ## Library dependencies
 
